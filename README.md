@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Santiago Mejía</h1> <h3 align="center">A passionate frontend developer from Colombia</h3>
+<h1 align="center">Hello 👋, I'm Santiago Mejía</h1> <h3 align="center">A developer from Colombia</h3>
 🔭 I'm currently working at IConnectance
 
 💬 Ask me about JavaScript, TypeScript, Java 12, C, C++, SQL, ReactJS, NodeJS, ExpressJS, Spring Boot, JavaFX
