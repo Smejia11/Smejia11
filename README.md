@@ -1,5 +1,22 @@
 <h1 align="center">Hello 👋, I'm Santiago Mejía</h1> <h3 align="center">A developer from Colombia</h3>
-🔭 I'm currently working at IConnectance
+
+About Me 👋
+
+Hello! I am a Full Stack Engineer with 3 years of experience actively participating in development and research teams at companies like Noatec S.A.S. and Sistran Andina. Throughout this time, I have taken on different roles within the project lifecycle, contributing to both frontend and backend development.
+
+🎯 Focus and Strengths  
+- Production-Ready Projects: I have experience working on projects that are currently in production, tackling real-world challenges and providing sustainable, scalable solutions.  
+- Adaptation to Dynamic Environments: My ability to collaborate effectively in multidisciplinary teams has been a key factor in my performance.  
+- Strong Programming Foundations: During my university studies, I focused on mastering the fundamentals of programming, enabling me to solve complex problems with clear and structured logic.
+
+🚀 Areas of Expertise  
+- Backend: Designing and developing scalable, secure APIs, integrating services, and managing databases.  
+- Frontend: Creating intuitive and responsive interfaces to ensure an excellent user experience.  
+- Agile Methodologies: Experienced in working with Scrum to meet goals and deadlines.  
+- Team Collaboration: Skilled in quickly adapting to new projects and continuously learning based on evolving requirements.
+
+📚 Professional Objective  
+My goal is to continue participating in innovative projects, leveraging my experience to develop efficient solutions and maintain production systems with high-quality standards.
 
 💬 Ask me about JavaScript, TypeScript, Java 12, C, C++, SQL, ReactJS, NodeJS, ExpressJS, Spring Boot, JavaFX
 
